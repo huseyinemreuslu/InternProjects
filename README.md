@@ -1,2 +1,3 @@
 # InternProjects
-Summer Practice
+
+Data I have prepared for the internship.
